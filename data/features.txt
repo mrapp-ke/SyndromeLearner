@@ -1,0 +1,11 @@
+nokeda_mts_presentation
+nokeda_bloodpressure_systolic_mean
+nokeda_bloodpressure_diastolic_mean
+nokeda_temperature_value_mean
+nokeda_respiratoryrate_value_mean
+nokeda_pulsefreq_value_mean
+nokeda_oxygensaturation_value_mean
+nokeda_diagnosis_icd4_value
+nokeda_isolation
+nokeda_transport
+nokeda_disposition
